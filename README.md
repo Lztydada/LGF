@@ -27,3 +27,5 @@ CIFAR100
 ```
 $python train.py -project lgf -dataset cifar100 -base_mode 'ft_cos' -new_mode 'avg_cos' -lr_base 0.1 -alpha 0.8 -lr_new 0.001 -decay 0.0005 -epochs_base 120 -schedule Cosine -gpu 0 -temperature 16 -moco_dim 32 -mlp -moco_t 0.07 -size_crops 32 18 -min_scale_crops 0.9 0.2 -max_scale_crops 1.0 0.7 -num_crops 2 0 -constrained_cropping
 ```
+# Detailed Performance
+![](https://github.com/Lztydada/LGF/raw/main/Detailed_Performance.pdf)

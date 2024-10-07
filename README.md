@@ -1,7 +1,7 @@
 # LGF
 Code for LGF
 # Dataset
-The Aircraft, Stanford Cars and Stanford dogs can download from [here](https://github.com/zichengpan/PFR). For CUB200, mini-ImageNet and CIFAR100, please follow the guidelines in [CEC](https://github.com/icoz69/CEC-CVPR2021) to prepare them, and the text data for the three datasets has been placed in the 'data' folder.
+The Aircraft, Stanford Cars and Stanford dogs can download from [here](https://github.com/zichengpan/PFR). For CUB200, mini-ImageNet and CIFAR100, please follow the guidelines in [CEC](https://github.com/icoz69/CEC-CVPR2021) to prepare them.
 # Training Scripts
 CUB200
 ```
